@@ -1,5 +1,7 @@
 # python-gcp-pub-sub-interactor
 
+A small python project to publish and subscribe to a GCP Pub/Sub topic.
+
 ## Prerequisites
 
 1. Install and configure [Google Cloud SDK](https://cloud.google.com/sdk/docs/install-sdk)
