@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "python-gcp-pub-sub-interactor"
+version = "0.1.0"
+description = "Python project that interacts with Google Cloud Pub/Sub."
+authors = ["Olivier Bénard"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+black = "^24.4.2"
+mypy = "^1.10.1"
+pylint = "^3.2.5"
+pytest = "^8.2.2"
+google-cloud-pubsub = "^2.22.0"
+argparse = "^1.4.0"
+dynaconf = "^3.2.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
