@@ -23,7 +23,7 @@ GOOGLE_SUBSCRIPTION_ID = "your-subscription-id"
 GOOGLE_SERVICE_ACCOUNT_KEYFILE = "path/to/your/service-account-file.json"
 ```
 
-Then, download the keyfile for the service account under the `secrets/` folder.
+Then, download the json keyfile for the service account under the `secrets/` folder.
 
 Finally:
 
